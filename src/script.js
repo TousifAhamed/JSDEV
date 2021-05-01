@@ -24,6 +24,8 @@ const testSphere = new THREE.Mesh(
 )
 scene.add(testSphere)
 
+///hello
+
 /**
  * Sizes
  */
